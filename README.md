@@ -14,35 +14,6 @@ This repository blends **exam‑focused study**, **secure SDLC artifacts**, and 
 
 ---
 
-## 🗂️ Repository Structure
-
-CSSLP/
-│
-├── Day01_Concepts/
-├── Day02_Requirements/
-├── Day03_Architecture/
-├── Day04_Implementation/
-├── Day05_Testing/
-├── Day06_Lifecycle/
-├── Day07_Operations/
-├── Day08_SupplyChain/
-├── Day09_Practice/
-├── Day10_FinalReview/
-│
-├── HandsOn_Project/
-│   ├── ThreatModel/
-│   ├── SRTM/
-│   ├── SecureDesign/
-│   ├── CodeReview/
-│   ├── SAST/
-│   ├── DAST/
-│   ├── SBOM/
-│   └── DeploymentSecurity/
-│
-└── README.md
-
-
----
 
 ## 🎯 10‑Day CSSLP Study Plan  
 Each day focuses on one CSSLP domain + hands‑on tasks.
